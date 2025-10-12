@@ -1,4 +1,20 @@
-## Hi there 👋
+I write code and try to make it do useful things.
+<div>
+	<table>
+		<tr>
+			<td>Intermediate:</td>
+			<td><code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></td>
+		</tr>
+		<tr>
+			<td>Improving:</td>
+			<td><code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code></td>
+		</tr>
+		<tr>
+			<td>Learning the ropes:</td>
+			<td><code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code></td>
+		</tr>
+	</table>
+</div>
 
 <!--
 **kon-mtal/kon-mtal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
